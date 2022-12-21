@@ -31,7 +31,8 @@ video
 
 Buatlah program agar ketika suhu rungan mencapai 30 derajat celcius, maka ESP32 akan menyalakan LED Merah dan buzzer secara beep (blink). Apabila suhu dibawah 30 derajat, ESP32 akan mematikan buzzer dan menyalakan LED berbentuk running LED seperti pada Percobaan A. Kemudian dokumentasikan hasilnya.
 
-video
+https://user-images.githubusercontent.com/121160420/208942676-75ead092-8744-426a-9812-acb0b8faa022.mp4
+
 
 C. Mengakses Sensor RFID (SPI Communication)
 
