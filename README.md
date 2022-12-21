@@ -14,7 +14,9 @@ https://user-images.githubusercontent.com/121160420/208930853-f0141a48-e599-4ec2
 
 8. Buatlah program agar ketika LED menyala, maka pada Serial Monitor akan menampilkan angka yang akan bertambah setiap kali sensor disentuh.
 
-video
+
+https://user-images.githubusercontent.com/121160420/208942250-8db87fc4-1d12-4f2b-bdb2-208948dcbd71.mp4
+
 
 9. Tambahkan 2 LED sehingga pada rangkaian terdapat 3 LED. Buatlah program agar ketika sensor disentuh, LED menyala menjadi running LED. Nyala running LED tersebut adalah bergerak dari kiri ke kanan, kemudian kanan ke kiri secara kontinyu.
 
