@@ -25,9 +25,6 @@ https://user-images.githubusercontent.com/121160420/208932568-ab22639c-d7eb-4fb5
 
 B. Mengakses Sensor DHT 11 (Single Wire / BUS)
 
-Buatlah program seperti pada script di bawah ini untuk mengakses sensor DHT11. Kemudian upload program tersebut pada ESP32 dan dokumentasikan hasilnya.
-
-video
 
 Buatlah program agar ketika suhu rungan mencapai 30 derajat celcius, maka ESP32 akan menyalakan LED Merah dan buzzer secara beep (blink). Apabila suhu dibawah 30 derajat, ESP32 akan mematikan buzzer dan menyalakan LED berbentuk running LED seperti pada Percobaan A. Kemudian dokumentasikan hasilnya.
 
