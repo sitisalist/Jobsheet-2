@@ -1,5 +1,14 @@
 # Jobsheet-2
 
+ALAT DAN BAHAN
+1) ESP32
+2) Breadboard
+3) Kabel jumper
+4) Sensor DHT 11, RFID
+5) LED (5) dan Push Button (3)
+6) Servo
+7) Resistor 330,1K, 10K Ohm (@ 3)
+
 A. ESP32 Capacitive Touch Sensor
 
 6. Buatlah program agar LED menyala ketika sensor disentuh, dan LED akan mati ketika sensor tidak disentuh.
